@@ -11,3 +11,4 @@ def chances_forca():
 def dica_forca():
    dica = input("qual é o tema da forca:")
    return dica
+
